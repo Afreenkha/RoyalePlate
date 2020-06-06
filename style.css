@@ -1,0 +1,123 @@
+#tab{
+    background-color: lightblue;
+}
+/* .htmle{
+    height: 200px;
+    width: 90%; */
+.allergen{
+width: 100%;
+height: auto ;
+background-color: brown;
+
+}
+
+
+
+.nice{
+    padding-bottom: 50px;
+}
+
+}
+/* .card-img{
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+} */
+
+.hel{
+    width: 100%;
+    height: 400px;
+}
+
+.imgggg{
+    width: 100%;
+    height:200px;
+}
+.footer {
+    height: auto;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+  }
+#imhg{
+ width:100%;
+height: 600px;
+background-image: url("ok.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+            }
+            #firstdiv{
+                width: 80%;
+                height: 50%;
+                color:floralwhite;
+                padding-left: 45%;
+                padding-top: 18%;
+                
+            }
+            /* #page2{
+                /* background-image: url("jh.jpg"); */
+                /* background-size: cover;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                width: 100%;
+                height: 600px;
+            } */ */
+            #about{
+                width:70%;
+                height: 60%;
+                align-items: center;
+                color: rgb(207, 137, 67);
+                font-size: larger;
+                font-weight: bolder;
+              padding-top: 15%;
+            }
+            /* #img2{
+                width: 5%;
+                height:20%;
+            } */
+
+   
+#about{
+    width: auto;
+    height: auto;
+    /* background-image: url("ok1.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#colum1{
+    background-color: darkgray;
+     padding-bottom: 10px;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 10px;
+}
+
+#colum2{
+    background-color: darkgray;
+    padding-top: 10px;
+    margin-top: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+#buttonmenus{
+    width :100%;
+    height: 30%;
+    background-color: darkkhaki;
+}
+
+ul li {
+    padding-top: 20px;
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+    text-decoration: none;
+}
+#staf{
+ height:40%;
+ width:50%;
+}
